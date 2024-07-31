@@ -45,20 +45,6 @@ Learning skills related to Computer Science, Data Analytics, Big Data, Machine L
 - **Duration**: June 2024 - Present
 - **Location**: United States
 
-### Learn For Cause
-- **Role**: Social Media Manager
-- **Duration**: May 2022 - November 2022
-- **Location**: Bhubaneswar, Odisha, India
-
-### Asiana Times
-- **Role**: Social Media Management Intern
-- **Duration**: July 2022 - August 2022
-- **Location**: Mumbai, Maharashtra, India
-
-### Aashman Foundation
-- **Role**: Social Media Marketing Intern
-- **Duration**: March 2022 - August 2022
-- **Location**: Kolkata, West Bengal, India
 
 ## Education
 ### Aspire Institute

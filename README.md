@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 ## Contact Information
 - **Location**: Nadia, West Bengal
 - **LinkedIn**: [linkedin.com/in/soudeeptikadar](https://www.linkedin.com/in/soudeeptikadar)
-- **Personal Links**: [linktr.ee/soudeeptikadar](https://linktr.ee/soudeeptikadar)
+- **X**: https://x.com/soudeeptikadar
+- **LeetCode**: https://leetcode.com/u/soudeeptikadar/
+- **GeeksforGeeks**: https://www.geeksforgeeks.org/user/soudeeptikadar/
+
 
 ## Summary
 Learning skills related to Computer Science, Data Analytics, Big Data, Machine Learning, and Deep Learning.

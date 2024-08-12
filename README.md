@@ -16,55 +16,55 @@ Here are some ideas to get you started:
 -->
 # Soudeep Tikadar's Portfolio
 
-## Contact Information
-- **Location**: Nadia, West Bengal
-- **LinkedIn**: [linkedin.com/in/soudeeptikadar](https://www.linkedin.com/in/soudeeptikadar)
-- **X**: [https://x.com/soudeeptikadar](https://x.com/soudeeptikadar)
-- **GitHub**: [https://github.com/soudeeptikadar](https://github.com/soudeeptikadar)
-- **LeetCode**: [https://leetcode.com/u/soudeeptikadar/](https://leetcode.com/u/soudeeptikadar/)
-- **GeeksforGeeks**: [https://www.geeksforgeeks.org/user/soudeeptikadar/](https://www.geeksforgeeks.org/user/soudeeptikadar/)
-- **Codolio**: [https://codolio.com/profile/soudeeptikadar](https://codolio.com/profile/soudeeptikadar)
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio Website</title>
+</head>
 
-## Summary
-Learning skills related to Computer Science, Data Analytics, Big Data, Machine Learning, and Deep Learning.
+<body>
+    <header>
+        <a href="#" class="logo">Soudeep</a>
 
-## Experience
-### Mood Indigo IIT Bombay
-- **Role**: Indigo Squad Member
-- **Duration**: July 2024 - Present
-- **Location**: Mumbai, Maharashtra, India
+        <nav>
+            <a href="#" class="active"> Home</a>
+            <a href="#">Services</a>
+            <a href="#">Skills</a>
+            <a href="#">Education</a>
+            <a href="#">Experience</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <section class="home">
+        <div class="home-img">
+            <img src="main.jpg" alt="">
+        </div>
+        <div class="home-content">
+            <h1>Hi, It's <span>Alex</span></h1>
+            <h3 class="typing-text">I'm a <span></span></h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus labore dolores esse. Odit similique
+                doloribus tenetur doloremque, sunt commodi in ipsa repudiandae debitis deleniti blanditiis quibusdam
+                quaerat neque asperiores ea.</p>
+            <div class="social-icons">
+                <a target="_blank" href="https://www.linkedin.com/in/soudeeptikadar/"><i
+                        class="fa-brands fa-linkedin"></i></a>
+                <a target="_blank" href="https://github.com/soudeeptikadar"><i class="fa-brands fa-github"></i></a>
+                <a target="_blank" href="https://x.com/soudeeptikadar"><i class="fa-brands fa-x-twitter"></i></a>
+                <a target="_blank" href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a target="_blank" href="https://www.geeksforgeeks.org/user/soudeeptikadar/">GFG</a>
+                <a target="_blank" href="https://leetcode.com/u/soudeeptikadar/">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+                        alt="LeetCode" style="width: 20px; height: 20px;">
+                </a>
+            </div>
+            <a href="#" class="btn">Hire me</a>
+        </div>
+    </section>
+</body>
 
-### Royal Statistical Society
-- **Role**: E-Student
-- **Duration**: June 2024 - Present
-- **Location**: London, England, United Kingdom
-
-### Google Developer Student Clubs - IIT Patna
-- **Role**: Community Member
-- **Duration**: June 2024 - Present
-- **Location**: Patna, Bihar, India
-
-### HSBC
-- **Role**: Member of HSBC Student and Graduate Community
-- **Duration**: June 2024 - Present
-- **Location**: United States
-
-
-## Education
-### Aspire Institute
-- **Program**: Aspire Leaders Program, Organizational Leadership
-- **Duration**: April 2024 - August 2024
-
-### Indian Institute of Technology, Patna
-- **Degree**: B.S in Computer Science and Data Analytics
-- **Duration**: January 2024 - December 2028
-
-
-
-## Languages
-- **English**: Professional Working
-- **Hindi**: Full Professional
-- **Bengali**: Native or Bilingual
-
-
+</html>

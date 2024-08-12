@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## Contact Information
 - **Location**: Nadia, West Bengal
 - **LinkedIn**: [linkedin.com/in/soudeeptikadar](https://www.linkedin.com/in/soudeeptikadar)
-- **GitHub**: [github.com/soudeeptikadar](https://github.com/soudeeptikadar)
 - **X (formerly Twitter)**: [x.com/soudeeptikadar](https://x.com/soudeeptikadar)
 - **GeeksforGeeks**: [geeksforgeeks.org/user/soudeeptikadar](https://www.geeksforgeeks.org/user/soudeeptikadar/)
 - **LeetCode**: [leetcode.com/u/soudeeptikadar](https://leetcode.com/u/soudeeptikadar/)
+- **Portfolio Website**: [https://soudeeptikadar.github.io/soudeeptikadar/](https://soudeeptikadar.github.io/soudeeptikadar/)
 
 
 ## Summary

@@ -44,6 +44,6 @@ I am a passionate **Data Analyst & Data Scientist in the making**, currently pur
 
 💬 **Ask me about:** Python, AI, Web Scraping, Data Science 🚀
 
-📫 **Reach me at:** [soudeeptikadar@gmail.com](mailto:soudeeptikadar@gmail.com)
+📫 **Reach me at:** [soudeep.tech@gmail.com](mailto:soudeep.tech@gmail.com)
 
 ⚡ **Fun Fact:** I enjoy exploring AI’s real-world applications in solving global challenges 🌍
